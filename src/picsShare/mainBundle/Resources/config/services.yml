@@ -1,0 +1,7 @@
+parameters:
+#    pics_sharemain.example.class: picsShare\mainBundle\Example
+
+services:
+#    pics_sharemain.example:
+#        class: %pics_sharemain.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

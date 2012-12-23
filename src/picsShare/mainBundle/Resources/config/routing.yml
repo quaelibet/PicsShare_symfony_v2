@@ -1,0 +1,3 @@
+pics_sharemain_homepage:
+    pattern:  /
+    defaults: { _controller: picsSharemainBundle:Default:index }
